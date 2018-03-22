@@ -1,2 +1,2 @@
 # Lil-Codelettes
-Little bits and pieces
+Bits and pieces
